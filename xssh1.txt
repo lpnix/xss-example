@@ -1,0 +1,23 @@
+#############-----ALL REFLECTED XSS example---------##############
+
+https://hackerone.com/reports/415139
+https://hackerone.com/reports/150568
+https://hackerone.com/reports/1012249
+https://hackerone.com/reports/732987
+https://hackerone.com/reports/840759
+https://hackerone.com/reports/846338
+https://hackerone.com/reports/438240
+https://hackerone.com/reports/1051373
+https://hackerone.com/reports/766633
+https://hackerone.com/reports/770349
+https://hackerone.com/reports/1110229
+https://hackerone.com/reports/469841
+https://hackerone.com/reports/470206
+https://hackerone.com/reports/659419
+https://hackerone.com/reports/751870
+https://hackerone.com/reports/1410459
+https://hackerone.com/reports/859806
+https://hackerone.com/reports/1043804
+https://hackerone.com/reports/496375
+https://hackerone.com/reports/629745
+https://hackerone.com/reports/226428
