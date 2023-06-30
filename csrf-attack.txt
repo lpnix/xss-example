@@ -1,0 +1,14 @@
+##########-------------CSRF ATTACK----------------#########
+
+https://hackerone.com/reports/834366
+https://hackerone.com/reports/152569
+https://hackerone.com/reports/419891
+https://hackerone.com/reports/177472
+https://hackerone.com/reports/15412
+https://hackerone.com/reports/339352
+https://hackerone.com/reports/293016
+https://hackerone.com/reports/204703
+https://hackerone.com/reports/260697
+https://hackerone.com/reports/834366
+https://hackerone.com/reports/215381
+https://hackerone.com/reports/95555
